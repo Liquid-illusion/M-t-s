@@ -1,7 +1,7 @@
 {
-  "public_api_key": "00000000-0000-0000-0000-000000000000",
-  "private_api_key": "00000000-0000-0000-0000-00000000000000000000-0000-0000-0000-000000000000",
-  "organization_id": "00000000-0000-0000-0000-000000000000",
-  "withdraw_address_id": "00000000-0000-0000-0000-000000000000",
+  "public_api_key": "1d74bd4e-2eea-4599-9a3d-4452d85f46c8",
+  "private_api_key": "26f3f855-c05e-44f7-96d2-8b3f7957c74d997ebd67-87df-448b-b0c4-c3d6c3e76026",
+  "organization_id": "7648e5b7-77f9-42f1-828c-b857650935df",
+  "withdraw_address_id": "bc1qq23d53yr04m7fytzemcn9xxxgza4udu80ckaf7",
   "minimum_balance": "0.0005"
 }
